@@ -8,14 +8,4 @@ describe('my tests', () => {
     it('should pass2', () => {
         expect(test2Method()).toBe(true);
     });
-})
-
-describe('my second tests', () => {
-    it('should pass', () => {
-        expect(test2Method()).toBe(true);
-    });
-
-    it('should pass2', () => {
-        expect(test2Method()).toBe(true);
-    });
 });
