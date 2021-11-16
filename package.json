@@ -11,7 +11,7 @@
     "supertest": "^4.0.2"
   },
   "dependencies": {
-    "aws-sdk": "^2.485.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.19.0",
     "bunyan": "^1.8.12",
     "celebrate": "^10.0.0",
